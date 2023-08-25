@@ -1,0 +1,7 @@
+[
+        {"id":101,"name":"Two Seater Sofa","image":"https://m.media-amazon.com/images/I/51dx6RUA+BL._SL1000_.jpg","price":1100,"totalPrice":0,"quantity":0, "cartVal":0},
+        {"id":102,"name":"Sofa set","image":"https://m.media-amazon.com/images/I/61s+OwaIJ5L._SL1306_.jpg","price":2200 ,"totalPrice":0 , "quantity":0,"cartVal":0},
+        {"id":103,"name":"Two Seater Sofa Blue","image":"https://m.media-amazon.com/images/I/51Rc0gZChDL._SL1000_.jpg","price":1100 ,"totalPrice":0, "quantity":0, "cartVal":0},
+        {"id":104,"name":"Two Seater Sofa Blue","image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/220007/original/FNSF51RTIN3_-_main_1.jpg?1542083622","price":1300 ,"totalPrice":0,  "quantity":0,"cartVal":0},
+        {"id":105,"name":"Two Seater Sofa modern","image":"https://www.ulcdn.net/opt/www.ulcdn.net/images/products/207036/original/FNSF51MACO3_-_main_1.jpg?1536734021","price":1000 ,"totalPrice":0,  "quantity":0,"cartVal":0}
+]
